@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MakeMyTripSuite">
+	<test name="MakeMyTripTest">
+		<classes>
+			<class name="com.qa.makemytriptest.MakeMyTripTest">
+			</class>
+		</classes>
+	</test>
+</suite>
